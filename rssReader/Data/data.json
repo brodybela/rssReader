@@ -1,0 +1,14 @@
+ [
+  {
+  "title": "Apple Developer News",
+  "url": "http://developer.apple.com",
+  "rss": "http://developer.apple.com/news/rss/",
+  "logo": "https://socialblade.com/blog/wp-content/uploads/2013/11/Apple-logo1.jpg"
+  },
+  {
+  "title": "Swift Developer News",
+  "url": "https://www.hackingwithswift.com",
+  "rss": "https://www.hackingwithswift.com/articles/rss",
+  "logo": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/870px-Swift_logo.svg.png"
+  }
+]
